@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+#clock-container {
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 20px auto;
+  width: 200px; 
+}
+
+#timer {
+  font-size: 24px;
+  font-weight: bold;
+}
